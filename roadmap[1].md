@@ -1,0 +1,14 @@
+# Portfolio roadmap
+- [x] Build the single-page portfolio with exact copy, supplied assets, and visible missing-asset placeholders.
+- [x] Verify navigation, outbound contact links, motion preferences, metadata, and desktop/mobile layouts.
+- [x] Replace Selected work with data-driven case study rows and pages.
+- [x] Prepare privacy-safe Emeritus screenshots and verify navigation, gallery, motion and mobile layouts.
+- [x] Update Camp client name and supplied screenshots without changing other content.
+- [x] Replace Camp icon with the supplied white logo in existing client logo positions.
+- [x] Add Serrani hero and gallery screenshots, concealing the email and payment-provider names before upload.
+- [x] Add Kimball supplied screenshots and accessible before/after comparisons within Screens.
+- [x] Verify both galleries, comparison controls and unchanged Serrani/Emeritus content.
+- [x] Booking CTAs, new hero copy, Sound familiar, calculator, call steps, FAQ, Upwork credential card, SEO title.
+- [x] Improve phone and tablet layouts and verify navigation, calculator and case study galleries.
+- [x] Add a free-call booking button to the closing band of every case study and verify its destination.
+- [ ] Add requested partner links, Upwork icons, WhatsApp actions and footer links; verify desktop/mobile and badge hover.
